@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com automação 
 - 🌱 Estudando Ciencias da Computação 
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/MartinsJP">
