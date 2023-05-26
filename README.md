@@ -21,12 +21,6 @@
 </div>
   
   ##
-  
-  <div align="center"><br>
-     <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-  </div>
-  
-  ##
  
  
 <div align="center"><br>
