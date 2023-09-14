@@ -27,7 +27,7 @@
   <a href = "mailto:joaopedromartins110@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-pedro-martins-101/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  _generated with [MartinsJP/MartinsJP](https://github.com/MartinsJP/MartinsJP)_
+ ![snake gif](https://github.com/MartinsJP/MartinsJP/blob/output/github-contribution-grid-snake.gif)
  
 </div>
 
