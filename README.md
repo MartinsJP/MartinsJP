@@ -1,7 +1,7 @@
 ### Olá ! Eu sou o Martins, estudante de programação e tecnologia!
 
-- 🔭 Hoje trabalho com automação 
-- 🌱 Estudando Ciencias da Computação 
+- 🔭 Hoje trabalho como Analista em QA na parte de automações
+- 🌱 Estudando MBA em IA
 
 <div align="center">
   <a href="https://github.com/MartinsJP">
