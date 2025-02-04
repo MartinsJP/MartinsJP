@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Martins 🚀</h1>
 
 <p align="center">
-🎯 Analista de QA | 💻 Automação de Testes | 🎓 MBA em IA | 🚀 Apaixonado por Tecnologia
+🎯 Analista de QA | 💻 Automação de Testes | 🎓 MBA em IA
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,html,css,csharp,docker,git,selenium,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,html,css,cs,docker,git,selenium,postgres,mysql" />
 </div>
 
 ---
@@ -35,11 +35,11 @@
 ## 📬 Contato
 
 <p align="center">
-  <a href="mailto:joaopedromartins110@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:joaopedromartins110@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/joao-pedro-martins-101/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
@@ -47,6 +47,6 @@
 
 ## 🐍 Contribuições  
 
-<div align="center">
-  <img src="https://github.com/MartinsJP/MartinsJP/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</div>
+<p align="center">
+  <img src="https://github.com/MartinsJP/MartinsJP/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
